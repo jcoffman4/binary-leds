@@ -26,97 +26,98 @@ void loop() {
   digitalWrite(pin5, HIGH);
   delay(delaytime);
 
-  // Number 3
+  // Number 2
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, LOW);
   digitalWrite(pin4, HIGH);
   digitalWrite(pin5, LOW);
   delay(delaytime);
 
-  // Number 4
+  // Number 3
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, LOW);
   digitalWrite(pin4, HIGH);
   digitalWrite(pin5, HIGH);
   delay(delaytime);
   
-  // Number 5
+  // Number 4
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, LOW);
   digitalWrite(pin5, LOW);
   delay(delaytime);
 
-  // Number 6
+  // Number 5
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, LOW);
   digitalWrite(pin5, HIGH);
+  delay(delaytime);
+
+  // Number 6
+  digitalWrite(pin2, LOW);
+  digitalWrite(pin3, HIGH);
+  digitalWrite(pin4, HIGH);
+  digitalWrite(pin5, LOW);
   delay(delaytime);
 
   // Number 7
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, HIGH);
-  digitalWrite(pin5, LOW);
+  digitalWrite(pin5, HIGH);
   delay(delaytime);
 
   // Number 8
-  digitalWrite(pin2, LOW);
-  digitalWrite(pin3, HIGH);
-  digitalWrite(pin4, HIGH);
-  digitalWrite(pin5, HIGH);
+  digitalWrite(pin2, HIGH);
+  digitalWrite(pin3, LOW);
+  digitalWrite(pin4, LOW);
+  digitalWrite(pin5, LOW);
   delay(delaytime);
 
   // Number 9
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, LOW);
   digitalWrite(pin4, LOW);
-  digitalWrite(pin5, LOW);
+  digitalWrite(pin5, HIGH);
   delay(delaytime);
 
   // Number 10
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, LOW);
-  digitalWrite(pin4, LOW);
-  digitalWrite(pin5, HIGH);
+  digitalWrite(pin4, HIGH);
+  digitalWrite(pin5, LOW);
   delay(delaytime);
 
   // Number 11
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, LOW);
   digitalWrite(pin4, HIGH);
-  digitalWrite(pin5, LOW);
+  digitalWrite(pin5, HIGH);
   delay(delaytime);
 
   // Number 12
   digitalWrite(pin2, HIGH);
-  digitalWrite(pin3, LOW);
-  digitalWrite(pin4, HIGH);
-  digitalWrite(pin5, HIGH);
+  digitalWrite(pin3, HIGH);
+  digitalWrite(pin4, LOW);
+  digitalWrite(pin5, LOW);
   delay(delaytime);
 
   // Number 13
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, LOW);
-  digitalWrite(pin5, LOW);
-  delay(delaytime);
-
-  // Number 14
-  digitalWrite(pin2, HIGH);
-  digitalWrite(pin3, HIGH);
-  digitalWrite(pin4, LOW);
   digitalWrite(pin5, HIGH);
   delay(delaytime);
 
-  // Number 15
+  // Number 14
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, HIGH);
   digitalWrite(pin5, LOW);
   delay(delaytime);
 
+  // Number 15
   digitalWrite(pin2, HIGH);
   digitalWrite(pin3, HIGH);
   digitalWrite(pin4, HIGH);
